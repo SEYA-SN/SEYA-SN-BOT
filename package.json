@@ -1,12 +1,12 @@
 {
-"name": "Robin-web-pair",
+"name": "SEYA-SN",
     "version": "0.0.1",
     "description": "A multi functional whatsapp bot Web paircode.",
     "main": "index.js",
     "scripts": {
-      "start": "pm2 start index.js --deep-monitoring --attach --name Robin",
-      "stop": "pm2 stop robin",
-     "restart": "pm2 restart robin"
+      "start": "pm2 start index.js --deep-monitoring --attach --name SEYA-SN",
+      "stop": "pm2 stop SEYA-SN",
+     "restart": "pm2 restart SEYA-SN"
     },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.9",
